@@ -1,0 +1,15 @@
+.header {
+    height: 60px;
+    background-color: rebeccapurple;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.header a {
+    padding: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-decoration: none;
+    color: antiquewhite;
+}
